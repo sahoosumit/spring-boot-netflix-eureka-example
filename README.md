@@ -50,7 +50,7 @@ You can also visit the Netflix Eureka dashoboard again now and see it listed the
 
 Start up a Test client
 ```
-cd test-server
+cd test-client
 build :   ./gradlew build -t
 run :   ./gradlew bootRun
 ```
