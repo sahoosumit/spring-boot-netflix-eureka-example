@@ -37,8 +37,8 @@ Visit the client directly at http://localhost:8090/service-instances
 
 ```
 
-The `/instances` endpoint will take up to a minute to update, but should eventually
-show all the instances of `eureka-client` that have been registered with the
+The `/service-instances` endpoint will take up to a minute to update, but should eventually
+show all the instances of `test-server` that have been registered with the
 Eureka Discovery Client.
 
 ```
